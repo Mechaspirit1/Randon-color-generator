@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-color: white;
+    transition: 0.2s;
+}
+
+button{
+    padding: 10px 20px;
+}
